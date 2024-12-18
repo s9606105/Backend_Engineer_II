@@ -30,7 +30,9 @@
 
 請備份你的資料庫上傳到你的 GitHub 以供下載與了解，以供給本公司參考你所寫的 sp 的內容是否有以考試內容來處理。
 
-本公司都採用前後端分離技術與開發，也有相關 iOT、AiOT、PLC、Arduino 整合與應用，以上的 Visual Studio、SQL Server 都是基本開發與日常工作，使用的技術與工具有..<BR>
+本公司都採用前後端分離技術與開發，以上的 Visual Studio、SQL Server 都是基本開發與日常工作<BR><BR>
+
+除了基本的開發，也有相關 iOT、AiOT、PLC、Arduino 整合與應用，使用的技術與工具有以下項目..<BR>
 
 Docker<BR>
 Linux<BR>
@@ -40,7 +42,5 @@ influxDB <BR>
 Mongo <BR>
 .NET 8 for Windows , Linux  <BR>
 
-<BR>
-除了開發之外也希望您能夠提供與發揮你的意見與想法
 
 
