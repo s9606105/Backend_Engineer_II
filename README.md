@@ -28,6 +28,12 @@
    2.3 執行的過程中請使用 usp_AddLog 來記錄你 sp 的執行過程<BR>
    2.4 寫入 Myoffice_ACPD 必須配合 [NEWSID] 這個 Stored Procedure 來為 Myoffice_ACPD 做為索引的來源<BR>
 
+3. WebAPI 必須都要在 swagger 展示與執行<BR>
+   3.1 執行時必須要在 swagger 上執行<BR>
+   3.2 swagger 必須要能夠 SELECT , UPDATE , DELETE , INSERT 等這些動作<br>
+   
+
+
 請備份你的資料庫上傳到你的 GitHub 以供下載與了解，以供給本公司參考你所寫的 sp 的內容是否有以考試內容來處理。
 
 本公司都採用前後端分離技術與開發，以上的 Visual Studio、SQL Server 都是基本開發與日常工作<BR><BR>
