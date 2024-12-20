@@ -20,7 +20,8 @@
 
 1. 提供 Visual Studio for WebAPI 專案內容<BR>
    1.1 必須連線到 SQL SERVER 來執行與運行 Exec [Stored Procedure] 並傳入 JSON <BR>
-   1.2 取得 JSON 後展示在 WebAPI 測試頁面上
+   1.2 取得 JSON 後展示在 WebAPI 測試頁面上 <BR>
+   1.3 你的程式與 SQL 的資料傳遞一概使用 JSON 傳遞過去
 
 2. 你的 SQL SERVER 要有以下內容<BR>
    2.1 你必須撰寫 Stored Procedure 來為 Myoffice_ACPD 來進行相關 CRUD 的動作<BR>
