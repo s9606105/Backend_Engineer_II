@@ -10,7 +10,7 @@
 （1）. SQL SERVER   / Stored Procedure / JSON 與 CURD 的應用<BR>
 （2）. Visual Studio 操作<BR>
 （3）. .NET Core 8 Web API MVC 技術的應用<BR>
-（4）. Git 版控應用<BR>
+（4）. GitHub 版控應用<BR>
 
 以上這些都是開發上基本的應用，請盡量完成。
 
