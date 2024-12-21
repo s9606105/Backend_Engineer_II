@@ -9,7 +9,7 @@
 
 （1）. SQL SERVER   / Stored Procedure / JSON 與 CURD 的應用<BR>
 （2）. Visual Studio 操作<BR>
-（3）. .NET Core 8 技術的應用<BR>
+（3）. .NET Core 8 Web API MVC 技術的應用<BR>
 （4）. Git 版控應用<BR>
 
 以上這些都是開發上基本的應用，請盡量完成。
@@ -34,14 +34,13 @@
 3. WebAPI 必須都要在 swagger 展示與執行<BR>
    3.1 執行時必須要在 swagger 上執行<BR>
    3.2 swagger 必須要能夠 SELECT , UPDATE , DELETE , INSERT 等這些動作<br>
-   
+
+4. 考試與繳交的技術請以考題的規定，脫離了考題與要求的展示內容，一概不及格
+
+請備份你的資料庫上傳到你的 GitHub 以供下載與了解，以供給本公司參考你所寫的 sp 的內容是否有以考試內容來處理，本公司都採用前後端分離技術與開發，以上的 Visual Studio、SQL Server 都是基本開發與日常工作<BR><BR>
 
 
-請備份你的資料庫上傳到你的 GitHub 以供下載與了解，以供給本公司參考你所寫的 sp 的內容是否有以考試內容來處理。
-
-本公司都採用前後端分離技術與開發，以上的 Visual Studio、SQL Server 都是基本開發與日常工作<BR><BR>
-
-除了基本的開發，也有相關 iOT、AiOT、PLC、Arduino 整合與應用，使用的技術與工具有以下項目..<BR>
+除了基本的開發，本公司也有相關 iOT、AiOT、PLC、Arduino 整合開發應用，使用的技術與工具有以下項目..<BR>
 
 Docker<BR>
 Linux<BR>
