@@ -21,7 +21,7 @@
 1. 提供 Visual Studio for WebAPI 專案內容<BR>
    1.1 必須連線到 SQL SERVER 來執行與運行 Exec [Stored Procedure] 並傳入 JSON <BR>
    1.2 取得 JSON 後展示在 WebAPI 測試頁面上 <BR>
-   1.3 你的程式必須產生相關 CRUD 的 JSON 來與 SQL SERVER 進行相關儲取動作<BR>
+   1.3 你的程式必須產生相關 CRUD 的 JSON 來與 SQL SERVER 進行相關存取動作<BR>
    1.4 SQL SERVER 只能用 JSON 並解析出相關資料並做出 CRUD 等相關功能<br>
 
 2. 你的 SQL SERVER 要有以下內容<BR>
