@@ -33,7 +33,7 @@
 
 3. WebAPI 必須都要在 swagger 展示與執行<BR>
    3.1 執行時必須要在 swagger 上執行<BR>
-   3.2 swagger 必須要能夠 SELECT , UPDATE , DELETE , INSERT 等這些動作<br>
+   3.2 swagger 必須要能夠執行 CRUD 等相關動作<br>
 
 4. 考試與繳交的技術請以考題的規定，脫離了考題與要求的展示內容，也請不要用 AI 來完成你的專案，一概不及格。<br><br><br>
 
