@@ -19,10 +19,11 @@
 繳交的考試內容必須要有以下的程式
 
 1. 提供 Visual Studio for WebAPI 專案內容<BR>
-   1.1 必須連線到 SQL SERVER 來執行與運行 Exec [Stored Procedure] 並傳入 JSON <BR>
-   1.2 取得 JSON 後展示在 WebAPI 測試頁面上 <BR>
-   1.3 你的程式必須產生相關 CRUD 的 JSON 來與 SQL SERVER 進行相關存取動作<BR>
-   1.4 SQL SERVER 只能用 JSON 並解析出相關資料並做出 CRUD 等相關功能<br>
+   1.1 你的專案一開始就要與 GitHub 來進行串接並有做到相關的版控，例如 develop , main , remotes/origin 等版控方式<BR>
+   1.2 必須連線到 SQL SERVER 來執行與運行 Exec [Stored Procedure] 並傳入 JSON <BR>
+   1.3 取得 JSON 後展示在 WebAPI 測試頁面上 <BR>
+   1.4 你的程式必須產生相關 CRUD 的 JSON 來與 SQL SERVER 進行相關存取動作<BR>
+   1.5 SQL SERVER 只能用 JSON 並解析出相關資料並做出 CRUD 等相關功能<br>
 
 2. 你的 SQL SERVER 要有以下內容<BR>
    2.1 你必須撰寫 Stored Procedure 來為 Myoffice_ACPD 來進行相關 CRUD 的動作<BR>
@@ -32,13 +33,23 @@
    2.5 所有對 SQL CRUD 一概使用 SQL 內相關 JSON 函式<BR>
    2.6 請備份你的 SQL Server Back 到 GitHub 上以供下載<BR>
 
-4. WebAPI 必須都要在 swagger 展示與執行<BR>
+3. WebAPI 必須都要在 swagger 展示與執行<BR>
    3.1 執行時必須要在 swagger 上執行<BR>
    3.2 swagger 必須要能夠 SELECT , UPDATE , DELETE , INSERT 等這些動作<br>
 
-5. 考試與繳交的技術請以考題的規定，脫離了考題與要求的展示內容，一概不及格
+4. 考試與繳交的技術請以考題的規定，脫離了考題與要求的展示內容，也請不要用 AI 來完成你的專案，一概不及格。
 
-請備份你的資料庫上傳到你的 GitHub 以供下載與了解，以供給本公司參考你所寫的 sp 的內容是否有以考試內容來處理，本公司都採用前後端分離技術與開發，以上的 Visual Studio、SQL Server 都是基本開發與日常工作<BR><BR>
+繳交時請再三確定
+
+1. GitHub 是否有你的建立與處理的過程，會用 develop , main , remotes/origin 等版控方式<BR>
+2. 你的 Visual Studio 專案要有與 SQL Connection 並用 JSON 的方式來執行 Exec [Stored Procedure] json <BR>
+3. 請備份你的資料庫並上傳到 GitHub ，以便提供本公司了解到你對於後端資料庫應用與專案是否都可以寫的清楚。<BR><BR>
+
+當你看完以上的基本的考試內容後，請確定你是否可以在時間內完成，如果在時間內「無法完成」請來信 延長考試 時間。<BR><BR>
+
+
+本公司專案都是「前/後 端分離」都是用 json 做為資料的交換，所有的動作與 json 息息相關就沒有必須在做 CRUD 還要從 .NET Core 找了一堆 Table 資料再來進行相關的 Model、Repositorys 的處理，本公司除了基本的 .net core 之外還有與 iOT、WebSorck、MoDBUS 等相關處理，還有相關硬體訊號 PLC 點位的了解
+
 
 
 除了基本的開發，本公司也有相關 iOT、AiOT、PLC、Arduino 整合開發應用，使用的技術與工具有以下項目..<BR>
