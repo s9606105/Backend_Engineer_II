@@ -29,13 +29,14 @@
    2.2 每一個 Stored Procedure 資料的處理都必須要透過 JSON 的方式來進行相關 CRUD 的動作與行為<BR>
    2.3 執行的過程中請使用 usp_AddLog 來記錄你 sp 的執行過程<BR>
    2.4 寫入 Myoffice_ACPD 必須配合 [NEWSID] 這個 Stored Procedure 來為 Myoffice_ACPD 做為索引的來源<BR>
-   2.5 所有對 SQL CRUD 一概使用 SQL 內相關 JSON 函式
+   2.5 所有對 SQL CRUD 一概使用 SQL 內相關 JSON 函式<BR>
+   2.6 請備份你的 SQL Server Back 到 GitHub 上以供下載<BR>
 
-3. WebAPI 必須都要在 swagger 展示與執行<BR>
+4. WebAPI 必須都要在 swagger 展示與執行<BR>
    3.1 執行時必須要在 swagger 上執行<BR>
    3.2 swagger 必須要能夠 SELECT , UPDATE , DELETE , INSERT 等這些動作<br>
 
-4. 考試與繳交的技術請以考題的規定，脫離了考題與要求的展示內容，一概不及格
+5. 考試與繳交的技術請以考題的規定，脫離了考題與要求的展示內容，一概不及格
 
 請備份你的資料庫上傳到你的 GitHub 以供下載與了解，以供給本公司參考你所寫的 sp 的內容是否有以考試內容來處理，本公司都採用前後端分離技術與開發，以上的 Visual Studio、SQL Server 都是基本開發與日常工作<BR><BR>
 
