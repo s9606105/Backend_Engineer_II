@@ -1,6 +1,6 @@
 # 水星工程科技有限公司 - 後端工程師
 
-此 Github 是存放相關考題內容，請面試者下載相關考題所需要的檔案
+此 Github 是存放相關考題內容，請面試者下載相關考題所需要的檔案，考試完成請直接透過 Email 告知你的 GitHub 的位置
 
 
 考試說明：(測試前10分鐘會寄到您信箱)
@@ -41,7 +41,7 @@
 
 1. GitHub 是否有你的建立與處理的過程，會用 develop , main , remotes/origin 等版控方式<BR>
 2. 你的 Visual Studio 專案要有與 SQL Connection 並用 JSON 的方式來執行 Exec [Stored Procedure] json <BR>
-3. 請再三確定你的 swagger WebAPI 必須要能夠做到相關 CRUD 的功能。<BR>
+3. 請再三確定你的 Visual Studio 專案執行 swagger 必須要能夠做到相關 CRUD 的功能。<BR>
 3. 請備份你的資料庫並上傳到 GitHub ，以便提供本公司了解到你對於後端資料庫應用與 Visual Studio 專案是否都可以寫的清楚執行上都沒有問題。<BR><BR>
 
 當你看完以上的基本的考試內容後，請確定你是否可以在時間內完成，如果在時間內「無法完成」請來信 延長考試 時間。<BR><BR><BR>
