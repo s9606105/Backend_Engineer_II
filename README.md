@@ -43,7 +43,7 @@
 1. GitHub 是否有你的建立與處理的過程，會用 develop , main , remotes/origin 等版控方式<BR>
 2. 你的 Visual Studio 專案要有與 SQL Connection 並用 JSON 的方式來執行 Exec [Stored Procedure] json <BR>
 3. 請再三確定你的 Visual Studio 專案執行 swagger 必須要能夠做到相關 CRUD 的功能。<BR>
-4. 請備份你的資料庫並上傳到 GitHub ，以便提供本公司了解到你對於後端資料庫應用與 Visual Studio 專案是否都可以寫的清楚執行上都沒有問題。<BR><BR>
+4. 請備份你的資料庫（用 SQL SERVER 製作一份 *.bak）並上傳到 GitHub ，以便提供本公司了解到你對於後端資料庫應用與 Visual Studio 專案是否都可以寫的清楚執行上都沒有問題。<BR><BR>
 
 ### 【建議與其他說明】
 
