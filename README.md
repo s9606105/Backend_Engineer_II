@@ -53,6 +53,7 @@
 - 請再三確定你的 Visual Studio 專案執行 swagger 必須要能夠做到相關 CRUD 的功能，不要傳入 JSON 之後連 資料 都沒有寫進去，請記得要用 NewSID 來做為索引。<BR>
 
 - 本公司現有開發的專案都是以「前/後 端分離」了，不需要一個人包辦前後端的應用開發。只想要了解你對於後端的能力與技術應用，以現有的技術 SQL SERVER 都己經可以接 JSON 了，SP 與 SP 之間的互動也都是以 JSON 來進行，所以你不需要使用 Entity Framework Core 來做 SQL SERVER Stored Procedure 的處理與動作，以你所寫的 Stored Procedure + OpenJSON 等相關函式來完成 CRUD 即可<BR>
+- 繳交時請再三確定「繳交內容」是否完整，如果你連最基本繳交內容都「很隨意」，那..可能..你比較適合其他公司。
 
 <BR><BR>
 
