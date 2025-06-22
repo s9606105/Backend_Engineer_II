@@ -18,7 +18,7 @@
 1. 提供 Visual Studio for WebAPI 專案內容<BR>
    1.1 你的專案一開始就要與 GitHub 來進行串接並有做到相關的版控，例如 develop , main , remotes/origin 等版控方式<BR>
    1.2 必須連線到 SQL SERVER 來執行與運行 Exec [Stored Procedure] 並傳入 JSON <BR>
-   1.3 取得 JSON 後展示在 Swagger Web 頁面上 <BR>
+   1.3 取得 JSON 後展示在 Swagger Web 頁面上 ，也請在 Swagger 的 CRUD 留下你的 JSON ，還要考官幫你寫 JSON !!<BR>
    1.4 你的程式必須產生相關 CRUD 的 JSON 來與 SQL SERVER 進行相關存取動作<BR>
    1.5 SQL SERVER 只能用 JSON 並解析出相關資料並做出 CRUD 等相關功能<br>
 
