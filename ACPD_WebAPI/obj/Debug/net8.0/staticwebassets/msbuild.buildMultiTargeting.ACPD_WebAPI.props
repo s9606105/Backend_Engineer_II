@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ACPD_WebAPI.props" />
+</Project>

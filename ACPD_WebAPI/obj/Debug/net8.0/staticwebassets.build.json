@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FDCou6oI8aHJGZWYOhG87IIs9jNrLIIi+Z7en3sPpVU=",
+  "Source": "ACPD_WebAPI",
+  "BasePath": "_content/ACPD_WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
